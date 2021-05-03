@@ -1,0 +1,1 @@
+var clipboard=new ClipboardJS('.btn');clipboard.on('success',function(e){spop({template:'复制成功。',autoclose:1000,position:'top-center',style:'success'});});clipboard.on('error',function(e){spop({template:'复制失败，请手动复制。',autoclose:1000,position:'top-center',style:'error'});});

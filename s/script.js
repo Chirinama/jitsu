@@ -91,32 +91,11 @@
 			mp3: "https://iw233music.oss-cn-beijing.aliyuncs.com/HoneyComeBear/HoneyComeBear%20-%20%E5%BF%98%E3%82%8C%E9%A2%A8.mp3",
 		}, 
 	    {
-			title: "High",
-			artist: "Stessie",
-			album: " ",
-			cover: "/Sound/img/Stessie - High.jpg",
-			mp3: "https://iw233music.oss-cn-beijing.aliyuncs.com/Stessie/Stessie%20-%20High.mp3",
-		}, 
-	    {
-			title: "Shelter",
-			artist: "(RUQOA Bootleg)",
-			album: " ",
-			cover: "/Sound/img/Porter Robinson & Madeon - Shelter (RUQOA Bootleg.jpg",
-			mp3: "https://iw233music.oss-cn-beijing.aliyuncs.com/RUQOA/Porter%20Robinson%20%26%20Madeon%20-%20Shelter%20%28RUQOA%20Bootleg.mp3",
-		}, 
-	    {
 			title: "Terrarium",
 			artist: "HoneyComeBear",
 			album: " ",
 			cover: "/Sound/img/HoneyComeBear - Terrarium.jpg",
 			mp3: "https://iw233music.oss-cn-beijing.aliyuncs.com/HoneyComeBear/HoneyComeBear%20-%20Terrarium.mp3",
-		}, 
-	    {
-			title: "good",
-			artist: "RUQOA",
-			album: " ",
-			cover: "/Sound/img/RUQOA -Koiniochiru .jpg",
-			mp3: "http://1.117.8.54:5244/d/Jitsu/Music/Good-night%C2%A0Kiss(DJ%E7%89%88)%20-%20%E5%85%A8%E5%AD%9D%E7%9B%9B.mp3",
 		}];
 
 	// Load playlist

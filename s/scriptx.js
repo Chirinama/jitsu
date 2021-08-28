@@ -96,126 +96,126 @@
 			album: "Revolver",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/HoneyComeBear---Terrariuma1f1390ad78ef47b.jpg",
 			mp3: "https://iw233music.oss-cn-beijing.aliyuncs.com/HoneyComeBear/HoneyComeBear%20-%20Terrarium.mp3",
-		}
+		},
 	    {
 			title: "Mirror",
 			artist: "HoneyComeBear",
 			album: "Holic",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/coverbe0770f3d16284cc.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Mirror%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "IDOL",
 			artist: "HoneyComeBear",
 			album: "Holic",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/coverbe0770f3d16284cc.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/IDOL%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Calling",
 			artist: "HoneyComeBear",
 			album: "Holic",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/coverbe0770f3d16284cc.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Calling%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "スニーカー",
 			artist: "HoneyComeBear",
 			album: "Intro",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover9cb23e8a2f407fd4.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Sneaker%20-%20%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "またね",
 			artist: "HoneyComeBear",
 			album: "Intro",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover9cb23e8a2f407fd4.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/See%20You%20-%20%E3%81%BE%E3%81%9F%E3%81%AD%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Defy",
 			artist: "HoneyComeBear",
 			album: "Intro",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover9cb23e8a2f407fd4.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Defy%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "ナツゾラ",
 			artist: "HoneyComeBear",
 			album: "Outro",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/covercdfccc77fd150f56.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/%E3%83%8A%E3%83%84%E3%82%BE%E3%83%A9%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "クラゲ",
 			artist: "HoneyComeBear",
 			album: "Outro",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/covercdfccc77fd150f56.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/SpaceJellyfish%20-%20%E3%82%AF%E3%83%A9%E3%82%B1%E3%82%99%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Clockwise",
 			artist: "HoneyComeBear",
 			album: "Outro",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/covercdfccc77fd150f56.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Clockwise%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "レイニーガール",
 			artist: "HoneyComeBear",
 			album: "Rainy Girl",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover91ebd335685e019d.md.png",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Rainy%20Girl%20-%20%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AB%E3%82%99%E3%83%BC%E3%83%AB%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Twilight",
 			artist: "HoneyComeBear",
 			album: "Twilight",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/covered04bc121bd04f30.md.png",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Twilight%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Colorful",
 			artist: "HoneyComeBear",
 			album: "Colorful",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover4f00a5edd6e674d3.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Colorful%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Friend",
 			artist: "HoneyComeBear",
 			album: "Friend",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover384764eacc368fd0.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Friend%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "アキレア",
 			artist: "HoneyComeBear",
 			album: "Achillea",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/27/cover7b468aa89efcbe7d.md.png",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/%E3%82%A2%E3%82%AD%E3%83%AC%E3%82%A2%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Missing",
 			artist: "HoneyComeBear",
 			album: "Missing",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/28/cover1e8df331af5fd2b5.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Missing%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "リメンバー",
 			artist: "HoneyComeBear",
 			album: "Remember",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/28/coverfa97d70cf090deee.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Remember%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Sunflower",
 			artist: "HoneyComeBear",
 			album: "Sunflower",
 			cover: "https://img.jpggod.com/file/jpggod/2021/08/28/covercd73b0182d1945d7.md.jpg",
 			mp3: "https://jitsu.top/d/ali/Music/HCB/Sunflower%20-%20HoneyComeBear.mp3",
-		}
+		},
 	    {
 			title: "Dear",
 			artist: "HoneyComeBear",
